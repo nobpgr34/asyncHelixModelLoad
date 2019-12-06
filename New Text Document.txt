@@ -1,0 +1,7 @@
+ //  ObjReader CurrentHelixObjReader = new ObjReader();
+
+            // FileStream f = new FileStream(filename, FileMode.Open);
+
+            //  MyModel = CurrentHelixObjReader.Read(filename);
+            // MyModel = await Task.Run<Model3DGroup>(() => CurrentHelixObjReader.Read(filename));
+            //  MyModel = (new ModelImporter()).Load(filename, dispatcher, true);
